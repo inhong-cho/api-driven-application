@@ -1,5 +1,11 @@
 # <img src="https://use.fontawesome.com/releases/v5.0.9/svgs/brands/app-store-ios.svg" width="24px"> An Example of API Driven Application
 
+
+![node (scoped)](https://img.shields.io/badge/node-%3E=9.8.0-brightgreen.svg)
+![golang (scoped)](https://img.shields.io/badge/golang-1.10.1-brightgreen.svg)
+![vue-cli (scoped)](https://img.shields.io/badge/vue--cli-3.0.0-brightgreen.svg)
+
+
 해당 repository는 Open API를 이용한 어플리케이션 작성의 예시코드입니다.
 기술 스택을 먼저 정한후 순수 기술구현에 포커스를 맞추었습니다. 따라서 서비스로 불완전한 기능을 내포하고 있습니다.
 
@@ -11,7 +17,7 @@
 Never used before only heard of it.
 
 
-[<img src="https://use.fontawesome.com/releases/v5.0.9/svgs/brands/tumblr.svg" height="42px">](https://www.tumblr.com/docs/en/api/v2)
+[<img src="https://fiu-assets-2-syitaetz61hl2sa.stackpathdns.com/static/use-media-items/17/16058/upto-700xauto/56702c1c/@2x/tumblr_logotype_white_blue_512.png" height="42px">](https://www.tumblr.com/docs/en/api/v2)
 
 Considering use this api.
 
