@@ -22,10 +22,9 @@ go get github.com/revel/cmd/revel
 ```
 git clone https://github.com/inhong-cho/api-driven-application.git
 ```
-4. 서버를 실행 혹은 빌드합니다.
+4. 서버를 실행합니다.
 ```
-./$GOPATH/$APP_PATH/server/run.sh
-./$GOPATH/$APP_PATH/server/build.sh
+revel run api-driven-application
 ```
 
 ### Client

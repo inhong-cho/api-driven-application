@@ -1,1 +1,1 @@
-sudo go run ./src/app.go
+sudo revel run api-driven-application/server
