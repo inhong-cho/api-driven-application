@@ -7,8 +7,28 @@
 
 
 해당 repository는 Open API를 이용한 어플리케이션 작성의 예시코드입니다.
+
 기술 스택을 먼저 정한후 순수 기술구현에 포커스를 맞추었습니다. 따라서 서비스로 불완전한 기능을 내포하고 있습니다.
 
+## Usage
+
+### Server
+1. [Go](https://golang.org/)를 인스톨 합니다.
+2. [revel framework](https://revel.github.io/)를 인스톨 합니다.
+```
+go get github.com/revel/cmd/revel
+```
+3. 해당 repository를 다운 받습니다.
+```
+git clone https://github.com/inhong-cho/api-driven-application.git
+```
+4. 서버를 실행 혹은 빌드합니다.
+```
+./$GOPATH/$APP_PATH/server/run.sh
+./$GOPATH/$APP_PATH/server/build.sh
+```
+
+### Client
 
 
 ## References
